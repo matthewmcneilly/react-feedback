@@ -8,17 +8,7 @@ class Home extends Component {
       paddingLeft: "40px"
     };
 
-    const styleOne = {
-      textAlign: "left",
-      paddingLeft: "40px"
-    };
-
-    const styleTwo = {
-      textAlign: "right",
-      paddingRight: "40px"
-    };
-
-    const styleThree = {
+    const style = {
       textAlign: "left",
       paddingLeft: "40px"
     };
@@ -34,7 +24,7 @@ class Home extends Component {
            <p><i>An application for students by students. </i></p>
           </Jumbotron>
 
-          <div style={styleOne}>
+          <div style={style}>
             <h2>Context</h2>
             <ul>
               <li>All you needs in one application.</li>
@@ -43,7 +33,7 @@ class Home extends Component {
               <li>Great for any work environment but perfect for University students.</li>
             </ul>
           </div>
-          <div style={styleTwo}>
+          <div style={style}>
             <h2>Collaboration</h2>
             <ul>
               <li>Instant communication with fellow students and lecturers.</li>
@@ -53,7 +43,7 @@ class Home extends Component {
             </ul>
             <p></p>
           </div>
-          <div style={styleThree}>
+          <div style={style}>
             <h2>Competition</h2>
             <ul>
               <li>Help drive motivation by discussing your progress with friends.</li>
