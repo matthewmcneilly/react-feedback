@@ -1,0 +1,11 @@
+// The Flow of Redux
+
+// 1. User Types Something
+// 2. Call Action Creator with new text
+// 3. Action Creator returns an action
+// 4. Action is sent to all reducers
+// 5. Reducer calculates the new app state
+// 6. State is sent to all compoents
+// 7. Components rerender with new state
+// 8. Inputs value is set e.g. 'to this.props.email'
+// 9. Wait for a new change then repeat 

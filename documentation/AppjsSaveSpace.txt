@@ -1,0 +1,10 @@
+// An import and export statement in one line
+// Import everything from Button.js and export it
+// This is a passthrough, which is saving on multiple lines of import statements in app.js
+export * from './Button';
+export * from './Card';
+export * from './CardSection';
+export * from './Header';
+export * from './Input';
+export * from './Spinner';
+export * from './ConfirmModal';
