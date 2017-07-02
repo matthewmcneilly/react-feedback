@@ -6,6 +6,7 @@ Used as the defining project for my Ulster University computing degree.
 ## Motivation
 
 The primary motivations for this project were...
+
 *Improving productivity with project centered notes and discussions.
 *Enabling instant communication between fellow students and lecturers.
 *Inspiring collaboration and competition, improving overall prerparation and work quality. 
