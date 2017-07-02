@@ -1,4 +1,4 @@
-## Synopsis
+## Introduction
 
 Welcome to the Feedback project. A note sharing web application, specifically designed for University students and lecturers. 
 Used as the defining project for my Ulster University computing degree. 
