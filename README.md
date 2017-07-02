@@ -6,6 +6,8 @@ Welcome to the main body of work for this developers final year University compu
 
 This project aimed to provide a web application for students and lecturers, helping to improve communication in regards to lectures/tutorials/pracitals. Aiming to provide a better experience that Evernote, GDrive, OneNote etc, by allowing for the creation of projects with their own note collection and chat functionality. 
 
+![alt text](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=ayYAzqZI1A01UVPobgzdkuUg1BY%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3bhcZXYfLrwuQ9HenkclAUyf_L6EWHoD5a4K4O9dY11g5XtI424ZxUBbFImi24 "Project View")
+
 ## Motivation
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
