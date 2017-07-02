@@ -7,10 +7,10 @@ Used as the defining project for my Ulster University computing degree.
 
 The primary motivations for this project were...
 
-*Improving productivity with project centered notes and discussions.
-*Enabling instant communication between fellow students and lecturers.
-*Inspiring collaboration and competition, improving overall prerparation and work quality. 
-*Facilitating user needs, all within one application.
+* Improving productivity with project centered notes and discussions.
+* Enabling instant communication between fellow students and lecturers.
+* Inspiring collaboration and competition, improving overall prerparation and work quality. 
+* Facilitating user needs, all within one application.
 
 ![alt text](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=ayYAzqZI1A01UVPobgzdkuUg1BY%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3bhcZXYfLrwuQ9HenkclAUyf_L6EWHoD5a4K4O9dY11g5XtI424ZxUBbFImi24 "Project View")
 A screenshot of the project view. 
