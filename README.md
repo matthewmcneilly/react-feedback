@@ -26,23 +26,37 @@ Project is organized into Scenes, Components, Actions, Reducers under the Src fo
 ## API Reference
 
 [ReactJS](https://facebook.github.io/react/) 
-[Redux Thunk]()
-[Firebase]()
-[Meteor]()
-[ReactRouterDOM]()
-[Markdown]()
-[React Bootstrap]()
+
+[Redux](http://redux.js.org)
+
+[Firebase](https://firebase.google.com/docs/reference/js/)
+
+[React-Router](https://reacttraining.com/react-router/web/guides/philosophy)
+
+[CodeMirror](https://codemirror.net/doc/manual.html#api)
+
+[React-Bootstrap](https://react-bootstrap.github.io)
+
+[Create React App](https://github.com/facebookincubator/create-react-app)
 
 
 ## Tests
 
+#### Run Unit Tests 
 `npm test`
 
-#### Options 
+##### Options Include
  › Press o to only run tests related to changed files.
  › Press p to filter by a filename regex pattern.
  › Press q to quit watch mode.
  › Press Enter to trigger a test run.
+
+[Create React App Testing](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests) 
+
+[Jest](https://facebook.github.io/jest/)
+
+[TravisCI](https://travis-ci.org)
+
 
 ## Contributors
 
