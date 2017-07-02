@@ -66,6 +66,7 @@ This projects primary goal was to be a great learning experience in using techno
 
 
 See below for more information about the API's used for the testing of this project. 
+
 [Create React App Testing](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests) 
 
 [Jest](https://facebook.github.io/jest/)
